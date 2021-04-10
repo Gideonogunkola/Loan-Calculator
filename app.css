@@ -1,0 +1,13 @@
+
+#dollar{
+    background: rgb(172, 172, 172) !important;
+    padding: 0.8em 1.5em ;
+    text-align: center;
+    border-radius: 4px 0 0 4px;
+}
+
+
+.btn,
+.form-control {
+    padding: .8em .7em;
+}
