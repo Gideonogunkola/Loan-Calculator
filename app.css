@@ -1,13 +1,32 @@
+*{
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.bg-dark,
+.btn-dark{
+    background:  #023a3d !important;
+    border: none;
+    transition: all 0.5s ease-in;
+}
+
+.btn-dark:hover{
+    background:  #002022 !important;
+    border: none;
+}
 
 #dollar{
-    background: rgb(172, 172, 172) !important;
+    background: #078f96 !important;
     padding: 0.8em 1.5em ;
     text-align: center;
     border-radius: 4px 0 0 4px;
+    color: #Fff
 }
-
 
 .btn,
 .form-control {
     padding: .8em .7em;
+}
+
+img{
+    width: 150px;
 }
